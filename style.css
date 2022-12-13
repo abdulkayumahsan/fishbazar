@@ -1,0 +1,28 @@
+
+
+.cat {
+
+    background-color: rgb(161, 97, 123);
+    padding: 20px;
+    margin: 10px;
+    border: 50px;
+    border-radius: 20px;
+    width: 210px;
+    height: 400px;
+}
+
+.youtube {
+    text-decoration: none;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(155, 155, 213);
+    font-size: medium;
+    color: rgb(19, 19, 116);
+
+}
+
+.fish {
+ width: 200px;
+height: 200px;
+}
